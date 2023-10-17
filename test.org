@@ -1,0 +1,20 @@
+#+title: Test
+#+author: TomWaa
+#+date: 2023-01-11 Wed
+
+Hello this is something
+
+** DONE Make Screenshots
+CLOSED: [2020-09-03 Wed]
+
+#+begin_src python
+from pathlib import Path
+
+hello = "my_text"
+number = 30
+
+print(f"hello text {hello} and number {number}")
+#+end_src
+
+#+RESULTS:
+: None
